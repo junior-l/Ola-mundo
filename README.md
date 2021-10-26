@@ -1,2 +1,2 @@
-# Ola mundo
- primeiro repositorio curso
+# Olá, mundo
+ primeiro repositorio curso feito em  2020
